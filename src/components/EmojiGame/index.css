@@ -1,0 +1,23 @@
+/* Write your code here. */
+.app-container {
+  background-image: linear-gradient(
+    to bottom right,
+    #9796f0 0.5%,
+    #fbc7d4 150%
+  );
+  min-height: 100vh;
+}
+
+.emoji-list-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
+
+  margin: auto;
+  margin-top: 30px;
+
+  padding: 0px;
+  padding-left: 30px;
+  padding-bottom: 30px;
+}
